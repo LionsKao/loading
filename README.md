@@ -10,4 +10,4 @@
 
 # RUN
 
-[Demo](http://github.hubspot.com/tooltip/docs/welcome/)
+[Demo](https://lionskao.github.io/loading/)
